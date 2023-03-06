@@ -1,0 +1,62 @@
+2023-03-04T10:43:04.084+05:30  INFO 19092 --- [main] cineShoppingSystemReviewApplicationTests : Starting OnlineMedicineShoppingSystemReviewApplicationTests using Java 17.0.4.1 with PID 19092 (started by mhemala2 in C:\Users\mhemala2\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\p\microservices\Project\OnlineMedicineShoppingSystem-Review)
+2023-03-04T10:43:04.108+05:30  INFO 19092 --- [main] cineShoppingSystemReviewApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-03-04T10:43:18.763+05:30  INFO 19092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-04T10:43:20.274+05:30  INFO 19092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1046 ms. Found 1 JPA repository interfaces.
+2023-03-04T10:43:45.309+05:30  INFO 19092 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-04T10:43:45.531+05:30  INFO 19092 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-03-04T10:43:48.070+05:30  WARN 19092 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-03-04T10:43:59.566+05:30  INFO 19092 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-03-04T11:05:49.587+05:30  INFO 22548 --- [main] cineShoppingSystemReviewApplicationTests : Starting OnlineMedicineShoppingSystemReviewApplicationTests using Java 17.0.4.1 with PID 22548 (started by mhemala2 in C:\Users\mhemala2\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\p\microservices\Project\OnlineMedicineShoppingSystem-Review)
+2023-03-04T11:05:49.594+05:30  INFO 22548 --- [main] cineShoppingSystemReviewApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-03-04T11:07:56.064+05:30  INFO 17104 --- [main] cineShoppingSystemReviewApplicationTests : Starting OnlineMedicineShoppingSystemReviewApplicationTests using Java 17.0.4.1 with PID 17104 (started by mhemala2 in C:\Users\mhemala2\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\p\microservices\Project\OnlineMedicineShoppingSystem-Review)
+2023-03-04T11:07:56.070+05:30  INFO 17104 --- [main] cineShoppingSystemReviewApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-03-04T11:08:05.761+05:30  INFO 17104 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-04T11:08:06.667+05:30  INFO 17104 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 718 ms. Found 1 JPA repository interfaces.
+2023-03-04T11:25:26.076+05:30  INFO 20444 --- [main] cineShoppingSystemReviewApplicationTests : Starting OnlineMedicineShoppingSystemReviewApplicationTests using Java 17.0.4.1 with PID 20444 (started by mhemala2 in C:\Users\mhemala2\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\p\microservices\Project\OnlineMedicineShoppingSystem-Review)
+2023-03-04T11:25:26.086+05:30  INFO 20444 --- [main] cineShoppingSystemReviewApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-03-04T11:37:55.594+05:30  INFO 16096 --- [main] cineShoppingSystemReviewApplicationTests : Starting OnlineMedicineShoppingSystemReviewApplicationTests using Java 17.0.4.1 with PID 16096 (started by mhemala2 in C:\Users\mhemala2\Documents\workspace-spring-tool-suite-4-4.16.0.RELEASE\p\microservices\Project\OnlineMedicineShoppingSystem-Review)
+2023-03-04T11:37:55.600+05:30  INFO 16096 --- [main] cineShoppingSystemReviewApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-03-04T11:38:11.146+05:30  INFO 16096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-04T11:38:12.167+05:30  INFO 16096 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 810 ms. Found 1 JPA repository interfaces.
+2023-03-04T11:38:22.237+05:30  INFO 16096 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-04T11:38:23.355+05:30  INFO 16096 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-03-04T11:38:24.718+05:30  WARN 16096 --- [main] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-03-04T11:38:26.184+05:30  INFO 16096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-03-04T11:38:28.813+05:30  INFO 16096 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4a5a8c6f
+2023-03-04T11:38:28.822+05:30  INFO 16096 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-03-04T11:38:29.107+05:30  INFO 16096 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-04T11:38:34.598+05:30  INFO 16096 --- [main] o.h.m.i.EntityInstantiatorPojoStandard   : HHH000182: No default (no-argument) constructor for class: com.example.demo.entity.Reviews (class must be instantiated by Interceptor)
+2023-03-04T11:38:35.453+05:30  INFO 16096 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-04T11:38:35.502+05:30  INFO 16096 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-04T11:38:45.236+05:30  WARN 16096 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-04T11:38:52.752+05:30  INFO 16096 --- [main] cineShoppingSystemReviewApplicationTests : Started OnlineMedicineShoppingSystemReviewApplicationTests in 65.595 seconds (process running for 82.151)
+2023-03-04T11:38:54.047+05:30  INFO 16096 --- [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.demo.service.MedicineReviewServiceImplTest]: MedicineReviewServiceImplTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-03-04T11:38:54.105+05:30  INFO 16096 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.demo.OnlineMedicineShoppingSystemReviewApplication for test class com.example.demo.service.MedicineReviewServiceImplTest
+2023-03-04T11:38:54.993+05:30  INFO 16096 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-04T11:38:55.819+05:30  INFO 16096 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-03-04T11:38:55.829+05:30  INFO 16096 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-03-06T18:19:47.822+05:30  INFO 1656 --- [restartedMain] eMedicineShoppingSystemReviewApplication : Starting OnlineMedicineShoppingSystemReviewApplication using Java 17.0.4.1 with PID 1656 (C:\Users\Hemalatha\Downloads\FullStackProject-master\FullStackProject-master\OnlineMedicineShoppingSystem-Review\target\classes started by Hemalatha in C:\Users\Hemalatha\Downloads\FullStackProject-master\FullStackProject-master\OnlineMedicineShoppingSystem-Review)
+2023-03-06T18:19:47.825+05:30  INFO 1656 --- [restartedMain] eMedicineShoppingSystemReviewApplication : No active profile set, falling back to 1 default profile: "default"
+2023-03-06T18:19:47.889+05:30  INFO 1656 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-03-06T18:19:47.890+05:30  INFO 1656 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-03-06T18:19:48.783+05:30  INFO 1656 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-06T18:19:48.872+05:30  INFO 1656 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 1 JPA repository interfaces.
+2023-03-06T18:19:49.570+05:30  INFO 1656 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8010 (http)
+2023-03-06T18:19:49.593+05:30  INFO 1656 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-03-06T18:19:49.593+05:30  INFO 1656 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.5]
+2023-03-06T18:19:49.680+05:30  INFO 1656 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-03-06T18:19:49.681+05:30  INFO 1656 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1791 ms
+2023-03-06T18:19:49.887+05:30  INFO 1656 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-06T18:19:49.948+05:30  INFO 1656 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.6.Final
+2023-03-06T18:19:50.134+05:30  WARN 1656 --- [restartedMain] org.hibernate.orm.deprecation            : HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+2023-03-06T18:19:50.276+05:30  INFO 1656 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-03-06T18:19:50.721+05:30  INFO 1656 --- [restartedMain] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@25234a1c
+2023-03-06T18:19:50.726+05:30  INFO 1656 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-03-06T18:19:50.811+05:30  INFO 1656 --- [restartedMain] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2023-03-06T18:19:51.412+05:30  INFO 1656 --- [restartedMain] o.h.m.i.EntityInstantiatorPojoStandard   : HHH000182: No default (no-argument) constructor for class: com.example.demo.entity.Reviews (class must be instantiated by Interceptor)
+2023-03-06T18:19:51.652+05:30  INFO 1656 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-06T18:19:51.662+05:30  INFO 1656 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-06T18:19:52.299+05:30  WARN 1656 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-06T18:19:52.689+05:30  INFO 1656 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-03-06T18:19:52.743+05:30  INFO 1656 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8010 (http) with context path ''
+2023-03-06T18:19:52.766+05:30  INFO 1656 --- [restartedMain] eMedicineShoppingSystemReviewApplication : Started OnlineMedicineShoppingSystemReviewApplication in 5.525 seconds (process running for 6.461)
